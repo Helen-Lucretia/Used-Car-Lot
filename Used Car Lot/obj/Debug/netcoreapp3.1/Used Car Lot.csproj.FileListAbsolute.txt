@@ -1,0 +1,13 @@
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\bin\Debug\netcoreapp3.1\Used Car Lot.exe
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\bin\Debug\netcoreapp3.1\Used Car Lot.deps.json
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\bin\Debug\netcoreapp3.1\Used Car Lot.runtimeconfig.json
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\bin\Debug\netcoreapp3.1\Used Car Lot.runtimeconfig.dev.json
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\bin\Debug\netcoreapp3.1\Used Car Lot.dll
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\bin\Debug\netcoreapp3.1\Used Car Lot.pdb
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\obj\Debug\netcoreapp3.1\Used Car Lot.csprojAssemblyReference.cache
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\obj\Debug\netcoreapp3.1\Used Car Lot.AssemblyInfoInputs.cache
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\obj\Debug\netcoreapp3.1\Used Car Lot.AssemblyInfo.cs
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\obj\Debug\netcoreapp3.1\Used Car Lot.csproj.CoreCompileInputs.cache
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\obj\Debug\netcoreapp3.1\Used Car Lot.dll
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\obj\Debug\netcoreapp3.1\Used Car Lot.pdb
+C:\Users\hhatch1\dev\Week5\Used Car Lot\Used Car Lot\obj\Debug\netcoreapp3.1\Used Car Lot.genruntimeconfig.cache
